@@ -1,0 +1,5 @@
+README
+------------------------------------------
+Opensuse spotify client
+
+
